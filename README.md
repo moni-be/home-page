@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Véro
 - 👀 I’m interested in coding the "client side", the web sites and applications's front-end
-- 🌱 I’m currently learning how to code in ReactJs, NodeJs, SASS, and how to display applis on cloud platforms + AI...
+- 🌱 I’m currently doing a review to accessibility guidelines and how to display apps on cloud platforms with Ai
 - 💞️ I’m looking to collaborate as webmaster or frontend developer on an extraordinary company!
 - 📫 How to reach me (coming soon)...
 
